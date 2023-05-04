@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: black
+}
+
+header {
+  background-color: white;
+  color: 000000;
+  justify-content: space-around;
+  padding: 40px;
+  margin: 60px
+  }
+
+  .listaa{
+  position: absolute;
+  width: 800px;
+  height: 180px;
+  left: 1000px;
+  top: 100px;
+  padding-right: 90px;
+  position:absolute;
+  }
+
+.imagem{
+  width: 150px;
+  height: 200px;
+  left:70px;
+  top:70px;
+}
+
+.item{
+  display: inline-block;
+  margin: 40px;
+  font-size: 24px;
+}
+
+.laura{
+  margin: 100px;
+  color: white
+}
+
+.rodape{
+  font-size: 20px;
+  background-color: white;
+  padding-left: 90px;
+}
+footer{
+  background: #FFFFFF;
+}
